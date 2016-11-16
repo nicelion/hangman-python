@@ -1,0 +1,15 @@
+Meats
+deer
+chicken
+bologna
+salami
+turkey
+buffalo
+kangaroo
+aligator
+frog
+steak
+human
+burger
+sirloin
+bacon
